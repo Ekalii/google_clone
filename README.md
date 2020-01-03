@@ -1,2 +1,2 @@
-# Netflix Clone Coding
+# Clone Coding
 * for study!
